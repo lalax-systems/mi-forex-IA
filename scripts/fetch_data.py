@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
+"""
+DISCLAIMER: 
+Este software es para fines educativos. No garantiza ganancias en trading.
+El autor no asume responsabilidad por pérdidas financieras.
+"""
+
 """
 Copyright (c) 2025 Javier Gómez - lalax-systems
 MIT License
